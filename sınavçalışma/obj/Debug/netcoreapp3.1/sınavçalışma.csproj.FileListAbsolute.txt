@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.Form1.resources
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.AssemblyInfo.cs
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.exe
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.deps.json
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.runtimeconfig.json
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.runtimeconfig.dev.json
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.dll
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\bin\Debug\netcoreapp3.1\sınavçalışma.pdb
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.dll
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.pdb
+C:\Users\PC\source\repos\sınavçalışma\sınavçalışma\obj\Debug\netcoreapp3.1\sınavçalışma.genruntimeconfig.cache
